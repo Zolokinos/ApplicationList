@@ -1,2 +1,4 @@
 # ApplicationList
-This app for remembering all the internet resources or applications.
+ Will contain:
+ * The source;
+ * If the source is <u></u>
